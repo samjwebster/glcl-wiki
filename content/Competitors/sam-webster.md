@@ -25,7 +25,7 @@ On August 12, Sam returned to reclaim his IC title in Tetris, out-scoring his op
 The Intercontinental, Tag Team, and Universal Championships were put on hiatus after Just Dance 4, with the [Guitar Hero World Tour](guitar-hero-2020) scheduled for May 23, 2020. However, due to the COVID-19 pandemic, the event was cancelled and the hiatus was extended until further notice. Sam was scheduled to compete in the Intercontinental Championship tournament at the Guitar Hero World Tour event.
 
 ## The Lake County Lollygaggers (2021-2022)
-After almost two years of inactivity, the [third annual Gang Beasts World Cup](gang-beasts-2021) was announced on September 3, 2021. Sam returned at the event on November 27. After an accidental headbutt knocked out his partner, [Connor](connor-rosciszewski), the two were eliminated in the first round of the tag team tournament. He would then be eliminated in the second round of the singles tournament.
+After almost two years of inactivity, the [third annual Gang Beasts World Cup](gang-beasts-2021) was announced on September 3, 2021. Leading up to the event, Sam released a confident and definitionally 'sus' monologue declaring his participation. During the November 27 competition, after an accidental headbutt knocked out his partner, [Connor](connor-rosciszewski), the two were eliminated in the first round of the tag team tournament. He would then be eliminated in the second round of the singles tournament.
 
 2022 was a rough year for Sam. A short-lived tag team stint with Matty B as Silicon Valley ended in defeat, followed by back-to-back Intercontinental tournament final losses in [Mario Kart 8](mario-kart-2022) and [Rocket League](carball-contenders-2022.md). After narrowly failing to reclaim the Intercontinental title numerous times, Sam found luck teaming with [Braden Rosciszewski](braden-rosciszewski) and [Fintan Bracken](fintan-bracken) in Rocket League as [The Lake County Lollygaggers](the-lake-county-lollygaggers). The trio won Tag Team gold, Sam’s first in his career, on December 18. Unfortunately, they lost the titles only 12 days later in [Ultimate Chicken Horse](ultimate-chicken-horse-2022.md). Sam had a notably poor performance in the singles tournament, getting eliminated in the first round by [Big Bad Billy](billy-wager) and an extremely intoxicated [Fintan](fintan-bracken).
 
@@ -33,7 +33,7 @@ Sam disappeared after the Ultimate Chicken Horse Smackdown, citing a need to “
 
 ## Rise of Big S (2023-present)
 
-On May 18, 2023, in the lead-up to Brother v Brother II, Sam made his first appearance as “Big S”, an ostensibly chauvinist womanizer who appeared more like a snapchat filter than a real man. Showing support for his “sugar brother”, Connor, he flaunted his muscles and blue steel. He returned to the shadows, never to appear again for over 2 years.
+On May 18, 2023, in the lead-up to [Brother v Brother II](brother-v-brother-ii), Sam made his first appearance as “Big S”, an ostensibly chauvinist womanizer who appeared more like a SnapChat filter than a real man. Showing support for his [“sugar brother”](tags/sugar-brother), [Connor](connor-rosciszewski), he flaunted his muscles and blue steel. He returned to the shadows, never to appear again for over 2 years.
 
 On June 14, 2025, Sam returned to compete in his first match in 2 and a half years at the Mario Kart Grand Prix. In his first match since December 2022, he defeated James Elliott, Emily O’Neil, Olivia Guenther, and Professor Cube to win his first Universal Championship and become the 10th GLCL Triple Crown Champion. 
 
@@ -48,6 +48,7 @@ On January 9, 2026, Braden Rosciszewski staked his claim to the Intercontinental
 Big S’s co-Tag Team Champion, Anthony, respectfully declared that he was next in line for a shot at the Intercontinental Championship. Big S obliged, and a match was set in Minigame Madness. On March 14, Big S defeated his partner to retain the IC title and broke Braden Rosciszewski’s 216-day record for longest GLCL Intercontinental Championship reign.
 Persona and style
 During the original format of the GLCL, most competitors were in high school. Their personas tended to depict exaggerated versions of their real-life personalities. In Sam’s case, he didn’t have significant screentime in trailers or segments. After the GLCL returned from its COVID-19 hiatus in 2021, Sam broke the mould from the majority of the GLCL by actively ignoring most characters, their rivalries, and the overarching story in the league and instead going on absurd anecdotes. He furthered this gimmick in 2023 after debuting his alter ego, Big S. Big S was elevated to the main event in 2025, feuding with fellow GLCL veterans Septilence, James Elliott, and Anthony Iacovone over the Intercontinental Championship. These matches solidified his status as a main-eventer.
+
 Appearances
 Tournaments
 Gang Beasts World Cup 2018
