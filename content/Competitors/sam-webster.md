@@ -4,6 +4,7 @@ draft: false
 tags:
     - competitor
     - sugar-brother
+    - triple-crown
     - triple-champion
 ---
 
@@ -11,7 +12,6 @@ Sam Webster is a [GLCL competitor](tags/competitor) known for his comedic promos
 
 # Competitive History
 ## Early Years (2018-2019)
-### Debut and Upset Championship Wins
 
 Sam made his first appearance at [the Gang Beasts World Cup](gang-beasts-2018) on November 24, 2018. He was eliminated in the second rounds of both the [Tag Team](tag-team) and [Intercontinental](intercontinental) tournaments. Four days later, he attempted to capture the [Universal Championship](universal) in an Air Hockey tournament, but was defeated by [Bri Reilly](bri-reilly) in the semifinals.
 
@@ -35,7 +35,7 @@ Sam disappeared after the Ultimate Chicken Horse Smackdown, citing a need to “
 
 On May 18, 2023, in the lead-up to [Brother v Brother II](brother-v-brother-ii), Sam made his first appearance as “Big S”, an ostensibly chauvinist womanizer who appeared more like a SnapChat filter than a real man. Showing support for his [“sugar brother”](tags/sugar-brother), [Connor](connor-rosciszewski), he flaunted his muscles and blue steel. He returned to the shadows, never to appear again for over 2 years.
 
-On June 14, 2025, Sam returned to compete in his first match in 2 and a half years at the Mario Kart Grand Prix. In his first match since December 2022, he defeated James Elliott, Emily O’Neil, Olivia Guenther, and Professor Cube to win his first Universal Championship and become the 10th GLCL Triple Crown Champion. 
+On June 14, 2025, Sam returned to compete in his first match in 2 and a half years at the [Mario Kart Grand Prix](mario-kart-2025). In his first match since December 2022, he defeated [James Elliott](james-elliott), [Emily O’Neil](emily-oneil), [Olivia Guenther](olivia-guenther), and [Professor Cube](devan-welch) to win his first [Universal Championship](universal) and become the [10th GLCL Triple Crown Champion](tags/triple-crown). 
 
 On July 11, Sam defeated Professor Cube to retain the Universal title in GamePigeon 8Ball. A week later, Sam reverted to his “Big S” persona to drop an incendiary diss track on the entire GLCL. He later revealed his plan to capture the Tag Team and Intercontinental Championships by the end of the year in order to become the “swaggiest” competitor in the GLCL. On August 1, the GLCL announced that Big S would be inserted into a 3-way Valorant title match between Septilence and James Elliott for the GLCL Intercontinental Championship. On August 9, Big S defeated Septilence and James in an upset victory. After the match, Big S boasted that his mission was two-thirds from completion. Dubbing himself the “InterUniversal Champion”, he announced that he was on the lookout for a tag team partner that didn’t mind sharing the spotlight with him. On September 12, Big S ran into The Twins. Despite an attempt at casual conversation, Braden and Connor reacted with hostility and vowed to go after Big S’s Universal and Intercontinental titles. On October 20, Big S bumped into Anthony Iacovone and convinced The Outlaw to be his tag team partner, successfully appealing to Anthony’s animosity towards the GLCL Tag Team Champions Jade Rush & Emily O’Neil.
 

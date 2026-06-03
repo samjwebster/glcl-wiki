@@ -40,6 +40,7 @@ On July 6, Septilence climbed to the top of the 32-man mountain to face [Mark He
 Mat returned after a year away at the Mario Kart Grand Prix on July 12. He was eliminated in the first round.
 
 On November 30, Mat returned at the Gang Beasts World Cup. He came up short in the finals of the Tag Team title tournament, teaming with occasional partner James Elliott, and was eliminated in the first round of the Intercontinental Championship tournament. 
+
 Hiatus (2020-2021)
 The Intercontinental, Tag Team, and Universal Championships were put on hiatus after Just Dance 4. Elliott was scheduled to defend the title at the Guitar Hero World Tour tournament on May 23, but the COVID-19 pandemic led to the cancellation of the event and an indefinite extension of the hiatus. With no foreseeable end to the pandemic, the Universal Championship was vacated on May 23.
 Record-breaking Tag Team reigns (2021-2023)
