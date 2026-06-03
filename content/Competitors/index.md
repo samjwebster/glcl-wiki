@@ -1,0 +1,1 @@
+Competitors are any person who have competed in any previous GLCL competitions or title matches.
