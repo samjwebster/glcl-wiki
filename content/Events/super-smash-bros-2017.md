@@ -1,5 +1,5 @@
 ---
-title: The 2017 Super Smash Bros. Brawl Classic
+title: Super Smash Bros. Brawl Classic (2017)
 draft: false
 tags:
     - event

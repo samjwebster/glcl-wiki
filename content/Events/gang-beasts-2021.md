@@ -1,5 +1,5 @@
 ---
-title: The 2021 Gang Beasts World Cup
+title: Gang Beasts World Cup (2021)
 draft: false
 tags:
     - event

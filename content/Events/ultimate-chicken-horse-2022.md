@@ -1,5 +1,5 @@
 ---
-title: The 2022 Ultimate Chicken Horse Smackdown
+title: Ultimate Chicken Horse Smackdown (2022)
 draft: false
 tags:
     - event

@@ -1,5 +1,5 @@
 ---
-title: The 2017 Mario Kart Wii Grand Prix
+title: Mario Kart Wii Grand Prix (2017)
 draft: false
 tags:
     - event

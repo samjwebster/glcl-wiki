@@ -1,5 +1,5 @@
 ---
-title: The 2022 Mario Kart 8 Grand Prix
+title: Mario Kart 8 Grand Prix (2022)
 draft: false
 tags:
     - event

@@ -1,5 +1,5 @@
 ---
-title: The 2019 Gang Beasts World Cup
+title: Gang Beasts World Cup (2019)
 draft: false
 tags:
     - event

@@ -1,5 +1,5 @@
 ---
-title: The 2025 Mario Kart Grand Prix
+title: Mario Kart Grand Prix (2025)
 draft: false
 tags:
     - event

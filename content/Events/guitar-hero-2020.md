@@ -1,5 +1,5 @@
 ---
-title: The 2020 Guitar Hero World Tour
+title: Guitar Hero World Tour (2020)
 draft: false
 tags:
     - event

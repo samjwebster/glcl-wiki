@@ -1,5 +1,5 @@
 ---
-title: The 2017 Mario Super Sluggers World Series
+title: Mario Super Sluggers World Series (2017)
 draft: false
 tags:
     - event

@@ -1,5 +1,5 @@
 ---
-title: "The 2022 Septilence Presents: Carball Contenders Series"
+title: "Septilence Presents: Carball Contenders Series (2022)"
 draft: false
 tags:
     - event

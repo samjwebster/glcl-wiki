@@ -1,5 +1,5 @@
 ---
-title: The 2019 Mario Super Sluggers World Series
+title: Mario Super Sluggers World Series (2019)
 draft: false
 tags:
     - event

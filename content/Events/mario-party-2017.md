@@ -1,5 +1,5 @@
 ---
-title: The 2017 Mario Party 8 Best-of-Six
+title: Mario Party 8 Best-of-Six (2017)
 draft: false
 tags:
     - event
