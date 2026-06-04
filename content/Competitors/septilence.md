@@ -2,6 +2,12 @@
 title: Septilence
 tags:
     - competitor
+
+    - intercontinental-champion
+    - tag-team-champion
+    - universal-champion
+    - triple-crown
+
     - founding-member
 ---
 
@@ -37,67 +43,53 @@ On July 6, Septilence climbed to the top of the 32-man mountain to face [Mark He
 
 ## Part-time status (2019)
 
-Mat returned after a year away at the Mario Kart Grand Prix on July 12. He was eliminated in the first round.
+Septilence returned after a year away at the [Mario Kart Grand Prix](mario-kart-2019) on July 12. He was eliminated in the first round.
 
-On November 30, Mat returned at the Gang Beasts World Cup. He came up short in the finals of the Tag Team title tournament, teaming with occasional partner James Elliott, and was eliminated in the first round of the Intercontinental Championship tournament. 
+On November 30, Mat competed at the [Gang Beasts World Cup](gang-beasts-2019). He came up short in the finals of the [Tag Team](tag-team) title tournament, teaming with occasional partner [James Elliott](james-elliott), and was eliminated in the first round of the [Intercontinental](intercontinental) Championship tournament. 
 
-Hiatus (2020-2021)
-The Intercontinental, Tag Team, and Universal Championships were put on hiatus after Just Dance 4. Elliott was scheduled to defend the title at the Guitar Hero World Tour tournament on May 23, but the COVID-19 pandemic led to the cancellation of the event and an indefinite extension of the hiatus. With no foreseeable end to the pandemic, the Universal Championship was vacated on May 23.
-Record-breaking Tag Team reigns (2021-2023)
-In the interim period, Mat became a renowned and prolific esports caster under the name Septilence. After almost two years of inactivity, the third annual Gang Beasts World Cup was announced on September 3, 2021. He returned at the event on November 27 and won the Tag Team Championship alongside James Elliott.
+## Hiatus (2020-2021)
 
-Septilence & James were scheduled to defend their titles at the Just Dance Greatest Hits Invitational in December. However, due to mounting COVID concerns, the tournament was canceled and the GLCL winter hiatus began early.
+The [Intercontinental](intercontinental), [Tag Team](tag-team), and [Universal](universal) Championships were put on hiatus after the [2019 Just Dance 4 Invitational](just-dance-2019). [Elliott](james-elliott) was scheduled to defend the title at the [Guitar Hero World Tour](guitar-hero-2020) tournament on May 23, but the COVID-19 pandemic led to the cancellation of the event and an indefinite extension of the hiatus. With no foreseeable end to the pandemic, the [Universal Championship](universal) was vacated on May 23.
 
-The summer season began with the Mario Kart Grand Prix 2022. Septilence & James successfully defended the Tag Team titles against Silicon Valley (Sam Webster & Matty B). However, he came up short in the main event against Charlie Marshall.
+## Record-breaking Tag Team reigns (2021-2023)
 
-Septilence defeated his own Tag Team partner, James, to win the Universal Championship in a game of Connect 4 on July 9. This win cemented Septilence as a Triple Crown Champion.
+In the interim period, Septilence became a renowned and prolific esports caster. After almost two years of inactivity, the third annual [Gang Beasts World Cup](gang-beasts-2021) was announced on September 3, 2021. He returned at the event on November 27 and won the [Tag Team Championship](tag-team) alongside [James Elliott](james-elliott).
 
-Septilence introduced The GLCL Carball Contender’s Series in August. The first GLCL tournament to be livestreamed on Twitch, Septilence would occasionally host streams during its run from September to November. Septilence & James lost the Tag Team Championships to The Lake County Lollygaggers (Fintan Bracken & Sam Webster) on December 18. Septilence & James’ reign ended at a record-shattering 386 days.
+Septilence & James were scheduled to defend their titles at the [Just Dance Greatest Hits Invitational](just-dance-2021) in December. However, due to mounting COVID concerns, the tournament was canceled and the GLCL winter hiatus began early.
 
-On December 30, Septilence entered the Ultimate Chicken Horse Smackdown. He captured the Tag Team Championships alongside Connor against The Lake County Lollygaggers (represented by Braden Rosciszewski & Sam Webster). This was the first time a tag team became 2-time champions as a duo. Although a favorite to win the singles tournament, he lost in the finals to Connor in a frenetic 4-way also involving Jenna Rosciszewski and Big Bad Billy. 
+The summer season began with the 2022 [Mario Kart Grand Prix](mario-kart-2022). Septilence, with co-champion [James](james-elliott), successfully defended the [Tag Team](tag-team) titles against [Silicon Valley](silicon-valley). However, he came up short in the main event against [Charlie Marshall](charlie-marshall).
 
-Septilence & Connor later lost the Tag Team titles on March 11, 2023 to the Friends in Fear in Fall Guys.
+Septilence defeated his own [Tag Team](tag-team) partner, [James](james-elliott), to win the [Universal Championship](universal) in a game of Connect 4 on July 9. This win cemented Septilence as a [Triple Crown Champion](tags/triple-crown).
 
-On December 30, Septilence earned an IC title opportunity by winning a Boomerang Fu tournament. 
-Big British Kingdom and Intercontinental Champion (2024-present)
-At the Mario Kart Grand Prix on June 22, Septilence was instantly slotted into the main event, having earned his shot at the IC title in December. However, his Achilles’ heel, Charlie Marshall, once again claimed the title.
+Septilence introduced [The GLCL Carball Contender’s Series](carball-contenders-2022) in August, 2022. The first GLCL tournament to be livestreamed on Twitch, Septilence would occasionally host streams during its run from September to November. Septilence & [James](james-elliott) lost the [Tag Team](tag-team) Championships to [Fintan Bracken](fintan-bracken) & [Sam Webster](sam-webster) of the [The Lake County Lollygaggers](lake-county-lollygaggers) on December 18. Septilence & James’ reign ended at a record-shattering 386 days.
 
-On August 24, Septilence forged a temporary alliance with the now-Big British Billy’s Big British Kingdom to defend the Tag Team titles on behalf of Billy, who was injured. He later placed second overall in the Olympic Games, winning the most overall medals as well. 
+On December 30, Septilence entered the [Ultimate Chicken Horse Smackdown](ultimate-chicken-horse-2022). He recaptured the [Tag Team](tag-team) Championships alongside [Connor Rosciszewski](connor-rosciszewski) against [The Lake County Lollygaggers](lake-county-lollygaggers), represented by [Braden Rosciszewski](braden-rosciszewski) & [Sam Webster](sam-webster). This was the first time a tag team became 2-time champions as a duo. Although a favorite to win the singles tournament, he lost in the finals to Connor in a frenetic 4-way also involving [Jenna Rosciszewski](jenna-rosciszewski) and [Big Bad Billy](billy-wager). 
 
-Septilence later officially joined the Big British Kingdom. The faction was set to do battle with The Family Business (Jenna, Braden, and Connor Rosciszewski) and James Elliott in Super Smash Bros. Ultimate. However, on November 30, inclement weather forced the GLCL to cancel the match.
+On March 11, 2023, Septilence & [Connor](connor-rosciszewski) lost the [Tag Team](tag-team) titles to the [Friends in Fear](friends-in-fear) in Fall Guys.
 
-After Billy excommunicated Anthony from the Big British Kingdom, Septilence was personally selected by Billy to challenge for the IC title. On May 26, Anthony defeated Septilence in Mortal Kombat 1 in an intense encounter.  
+On December 30, Septilence earned an [Intercontinental](intercontinental) title opportunity by winning a Boomerang Fu tournament. 
 
-Septilence and the Kingdom’s war with Anthony continued at the Mario Kart Grand Prix on June 14. In the main event, Septilence defeated Anthony, as well as Billy and James, to win his third Intercontinental Championship (his first in over seven years). Big British Billy took to the podium to celebrate the win of his accomplice. Suddenly, gunshots rang out in the air and Septilence tackled Billy to the floor. Septilence then escorted Billy to safety after a bloodied Billy raised his fist in the air, chanting “Fight! Fight! Fight!” in defiance to the apparent assassination attempt.
+## Big British Kingdom and Intercontinental Champion (2024-present)
 
-Septilence retained the GLCL Intercontinental Championship against rival James Elliott in Overwatch 2 on July 11. Afterwards, Sam Webster (presenting himself as a himbo named Big S) emerged with a diss track on the GLCL. Capitalizing on the animosity between the three, the GLCL announced a 3-way match for Septilence’s title in Valorant. On August 9, Big S scored the upset victory to defeat Septilence and James, ending Septilence’s reign at 56 days.
+At the [Mario Kart Grand Prix](mario-kart-2024) on June 22, 2024, Septilence was instantly slotted into the main event, having earned his shot at the [Intercontinental](intercontinental) title in December. However, his Achilles’ heel, [Charlie Marshall](charlie-marshall), once again claimed the title.
 
-On October 10, James approached Septilence with a proposition to settle the score: a one-on-one match for the right to challenge Big S. At Halloween Horror on October 22, Septilence outlasted James in a Five Nights at Freddy’s Survival Match to earn an Intercontinental Championship match. 
+On August 24, Septilence forged a temporary alliance with the [now-Big British Billy’s](billy-wager) [Big British Kingdom](big-british-kingdom) to defend the [Tag Team](tag-team) titles on behalf of Billy, who was injured. He later placed second overall in the [2024 Olympic Games](olympics-2024), winning the most overall medals as well. 
 
-At Boomerang Fu: TURF WARS on December 27, Big British Kingdom lost to The Family Business, ending their nearly 2-year-long feud once and for all.
+Septilence later officially joined the [Big British Kingdom](big-british-kingdom). The faction was set to do battle with [The Family Business](family-business) & [James Elliott](james-elliott) in Super Smash Bros. Ultimate. However, on November 30, inclement weather forced the GLCL to cancel the match.
 
-On January 7, 2026, Septilence unsuccessfully challenged Big S for the GLCL Intercontinental Championship in Megabonk. 
+After [Big British Billy](billy-wager) excommunicated [Anthony](anthony-iacovone) from the [Big British Kingdom](big-british-kingdom), Septilence was personally selected by Billy to challenge for the [IC](intercontinental) title. On May 26, Anthony defeated Septilence in Mortal Kombat 1 in an intense encounter.  
 
+Septilence and the [Kingdom’s](big-british-kingdom) war with [Anthony](anthony-iacovone) continued at the [Mario Kart Grand Prix](mario-kart-2025) on June 14, 2025. In the main event, Septilence defeated Anthony, as well as [Big British Billy](billy-wager) and [James](james-elliott), to win his third [Intercontinental Championship](intercontinental)--his first in over seven years. Big British Billy took to the podium to celebrate the win of his accomplice. Suddenly, gunshots rang out in the air and Septilence tackled Billy to the floor. Septilence then escorted Billy to safety after a bloodied Billy raised his fist in the air, chanting “Fight! Fight! Fight!” in defiance to the apparent assassination attempt.
 
+Septilence retained the [Intercontinental](intercontinental) title against rival [James Elliott](james-elliott) in Overwatch 2 on July 11. Afterwards, [Sam Webster](sam-webster), assuming his alter-ego Big S, emerged with a [diss track](big-s-diss) on the GLCL. Capitalizing on the animosity between the three, the GLCL announced the [Valorant Free For All](valorant-2025), a 3-way match for Septilence’s title. On August 9, Big S scored the upset victory to defeat Septilence and James, ending Septilence’s reign at 56 days.
 
+On October 10, [James](james-elliott) approached Septilence with a proposition to settle the score: a one-on-one match for the right to challenge [Big S](sam-webster). At [Halloween Horror](halloween-horror-2025) on October 22, Septilence outlasted James in a Five Nights at Freddy’s Survival Match to earn an [Intercontinental Championship](intercontinental) match. 
 
+At [Boomerang Fu: TURF WARS](boomerang-fu-2025) on December 27, the [Big British Kingdom](big-british-kingdom) lost to [The Family Business](the-family-business), ending their nearly 2-year-long feud once and for all. Disillusioned by [Big British Billy's](big-british-billy) lackluster performance during the event, Septilence announced that he would no longer represent the Big British Kingdom. He proclaimed "2026... that's the year of Septilence!" shortly before attacking Billy and removing his crown.
 
+On January 7, 2026, Septilence unsuccessfully challenged [Big S](sam-webster) for the [Intercontinental](intercontinental) Championship in Megabonk. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- 
 
 
 Appearances
@@ -150,4 +142,4 @@ Runner-up of the GLCL Olympic Games 2024
 2-time GLCL Olympic Gold Medalist (Archery, 100m Dash)
 5-time GLCL Olympic Bronze Medalist (Surfing, Swimming, Gymnastics, Equestrian, 110m Hurdles)
 Winner of the GLCL Mario Kart Grand Prix (2025)
-
+ -->

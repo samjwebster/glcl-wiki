@@ -3,12 +3,14 @@ title: Sam Webster
 draft: false
 tags:
     - competitor
-    - sugar-brother
+
     - intercontinental-champion
     - tag-team-champion
     - universal-champion
     - triple-crown
     - triple-champion
+
+    - sugar-brother
 ---
 
 <div style="
@@ -16,21 +18,17 @@ tags:
     width: 280px; 
     border: 1px solid var(--border); 
     background-color: var(--pageBackground); 
-    padding: 15px; 
+    padding: 5px; 
     margin: 0 0 20px 20px; 
     font-size: 0.9em;
     box-shadow: 0px 2px 4px rgba(0,0,0,0.05);
     border-radius: 4px;
 ">
-    <h3 style="margin-top: 0; text-align: center; border-bottom: 1px solid var(--border); padding-bottom: 5px;">Big S</h3>
+    <div style="margin-top: 0; text-align: center; border-bottom: 1px solid var(--border); padding-bottom: 5px; color: black; font-size: 1.35em; font-weight: bold;">Sam Webster</div>
     <div style="text-align: center; margin-bottom: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg" alt="Sam Webster Photo" style="width: 100%; max-width: 150px; border-radius: 2px;" />
     </div>
     <table style="width: 100%; border-collapse: collapse; font-size: 0.95em;">
-        <tr>
-            <td style="padding: 4px 0; font-weight: bold; width: 40%;">Real Name</td>
-            <td style="padding: 4px 0;">Sam Webster</td>
-        </tr>
         <tr>
             <td style="padding: 4px 0; font-weight: bold; width: 40%;">Aliases</td>
             <td style="padding: 4px 0;">Big S <br> David Copperfield (by Connor) <br> Sam, Sam, the SnapChat Filter Man (by Septilence) <br> B.M.O.C. <br> The Looksmaxxer <br> The Mogger <br> Fabio (by Blue Collar Billy) </td>
@@ -42,14 +40,6 @@ tags:
         <tr>
             <td style="padding: 4px 0; font-weight: bold;">Current Titles</td>
             <td style="padding: 4px 0;">Intercontinental (3x) <br> Tag Team (2x) <br> Universal </td>
-        </tr>
-        <tr>
-            <td style="padding: 4px 0; font-weight: bold;">Era</td>
-            <td style="padding: 4px 0;">GLCL (Pre & Post-Hiatus)</td>
-        </tr>
-        <tr>
-            <td style="padding: 4px 0; font-weight: bold;">Style</td>
-            <td style="padding: 4px 0;">Surreal Promos / "Swag" Mockery</td>
         </tr>
     </table>
 </div>
