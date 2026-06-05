@@ -1,5 +1,5 @@
 ---
-title: "Brother v Brother II"
+title: "Brother vs. Brother II"
 draft: false
 tags:
     - event

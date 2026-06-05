@@ -1,0 +1,1 @@
+Notable GLCL tournaments, competitions, matchups, and other events, organized by year.

@@ -69,7 +69,7 @@ In early 2023, Sam fled to California, citing a need to “return to the drawing
 
 ## Rise of Big S (2023-present)
 
-On May 18, 2023, in the lead-up to [Brother v Brother II](brother-v-brother-ii), Sam made his first appearance as “Big S”, an unpredictable yet charismatic figure who more closely resembled a SnapChat filter than a real man. Showing support for his [“sugar brother”](tags/sugar-brother), [Connor](connor-rosciszewski), he flaunted his muscles and blue steel. He returned to the shadows, never to appear again for over 2 years.
+On May 18, 2023, in the lead-up to [Brother v Brother II](brother-vs-brother-ii), Sam made his first appearance as “Big S”, an unpredictable yet charismatic figure who more closely resembled a SnapChat filter than a real man. Showing support for his [“sugar brother”](tags/sugar-brother), [Connor](connor-rosciszewski), he flaunted his muscles and blue steel. He returned to the shadows, never to appear again for over 2 years.
 
 On June 14, 2025, Sam returned to compete in his first match in 2 and a half years at the [Mario Kart Grand Prix](mario-kart-2025). In his first match since December 2022, he defeated [James Elliott](james-elliott), [Emily O’Neil](emily-oneil), [Olivia Guenther](olivia-guenther), and [Professor Cube](devan-welch) to win his first [Universal Championship](universal) and become the [10th GLCL Triple Crown Champion](tags/triple-crown). 
 
