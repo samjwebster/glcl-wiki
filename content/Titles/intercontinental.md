@@ -1,5 +1,5 @@
 ---
-title: The Intercontinental Title
+title: GLCL Intercontinental Championship
 tags:
     - title
 ---

@@ -1,5 +1,5 @@
 ---
-title: The Tag Team Title
+title: GLCL Tag Team Championship
 tags:
     - title
 ---

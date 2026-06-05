@@ -1,5 +1,5 @@
 ---
-title: The UFC Title
+title: GLCL UFC Championship
 tags:
     - title
 ---

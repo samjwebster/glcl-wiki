@@ -1,5 +1,5 @@
 ---
-title: The Universal Title
+title: GLCL Universal Championship
 tags:
     - title
 ---
