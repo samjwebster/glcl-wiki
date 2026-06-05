@@ -1,3 +1,104 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+// Open quartz/styles/custom.scss and replace the previous callout code with this:
+
+.callout[data-callout="info"] {
+  // This targets any 'info' callout that contains the word Infobox in its text
+  float: right !important; 
+  width: 300px !important;
+  margin: 0 0 20px 20px !important;
+  font-size: 0.9em !important;
+  background-color: var(--pageBackground) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: 6px !important;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.06) !important;
+  padding: 12px !important; // updated
+  display: block !important;
+
+  .callout-title {
+    padding: 4px 0 !important;
+    margin-bottom: 4px !important;
+  }
+
+  // Fix internal spacing that Quartz forces on callout content
+  .callout-content {
+    padding: 0 !important;
+    margin: 0 !important;
+
+    // Target the paragraph tag Quartz automatically wraps around images
+    p {
+      margin: 0 !important;
+      padding: 0 !important;
+      line-height: 0 !important; // Drops hidden text line-height gaps
+    }
+    
+    // Reset standard markdown table styles inside our sidebar
+    table {
+      width: 100% !important;
+      margin: 0 !important;
+      border-collapse: collapse !important;
+      border: none !important;
+      background: transparent !important;
+      display: table !important; // Overrides any responsive block layouts
+
+      tr {
+        background: transparent !important;
+        border-bottom: 1px solid var(--lightgray) !important;
+        
+        &:last-child {
+          border-bottom: none !important;
+        }
+      }
+
+      td {
+        border: none !important;
+        padding: 6px 4px !important;
+        vertical-align: top !important;
+        line-height: 1.4 !important;
+      }
+    }
+
+    // Center and constrain the profile picture
+    img {
+      display: block !important;
+      margin: 2px auto !important;
+      max-width: 100% !important;
+      height: auto !important;
+      border-radius: 4px !important;
+    }
+
+    // TARGET THE CAPTION (The nested blockquote)
+    blockquote {
+      background: transparent !important;
+      border-left: none !important; // Removes default blockquote side-border
+      margin: 6px 0 12px 0 !important; // Clean spacing around the text
+      padding: 0 !important;
+      text-align: center !important;
+      
+      // Style the text inside the caption
+      p, font, span {
+        text-align: center !important;
+        font-size: 1em !important;
+        color: var(--darkgray) !important;
+        line-height: 1.4 !important;
+        margin: 0 !important;
+        display: block !important;
+      }
+    }
+  }
+}
+
+// Mobile responsive override: push it back to full width on small screens
+@media (max-width: 768px) {
+  .callout[data-callout="info"] {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 0 20px 0 !important;
+  }
+}
+
+// Keep page headings from colliding with the floated sidebar
+// h1, h2, h3, h4 {
+//   clear: both;
+// }

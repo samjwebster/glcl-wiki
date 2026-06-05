@@ -13,36 +13,16 @@ tags:
     - sugar-brother
 ---
 
-<div style="
-    float: right; 
-    width: 280px; 
-    border: 1px solid var(--border); 
-    background-color: var(--pageBackground); 
-    padding: 5px; 
-    margin: 0 0 20px 20px; 
-    font-size: 0.9em;
-    box-shadow: 0px 2px 4px rgba(0,0,0,0.05);
-    border-radius: 4px;
-">
-    <div style="margin-top: 0; text-align: center; border-bottom: 1px solid var(--border); padding-bottom: 5px; color: black; font-size: 1.35em; font-weight: bold;">Sam Webster</div>
-    <div style="text-align: center; margin-bottom: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg" alt="Sam Webster Photo" style="width: 100%; max-width: 150px; border-radius: 2px;" />
-    </div>
-    <table style="width: 100%; border-collapse: collapse; font-size: 0.95em;">
-        <tr>
-            <td style="padding: 4px 0; font-weight: bold; width: 40%;">Aliases</td>
-            <td style="padding: 4px 0;">Big S <br> David Copperfield (by Connor) <br> Sam, Sam, the SnapChat Filter Man (by Septilence) <br> B.M.O.C. <br> The Looksmaxxer <br> The Mogger <br> Fabio (by Blue Collar Billy) </td>
-        </tr>
-        <tr>
-            <td style="padding: 4px 0; font-weight: bold;">Date of Birth</td>
-            <td style="padding: 4px 0;">October 23, 2001</td>
-        </tr>
-        <tr>
-            <td style="padding: 4px 0; font-weight: bold;">Current Titles</td>
-            <td style="padding: 4px 0;">Intercontinental (3x) <br> Tag Team (2x) <br> Universal </td>
-        </tr>
-    </table>
-</div>
+> [!info]+ Sam Webster
+> ![[Images/competitors/sam-webster/big-s.webp]]
+> > Webster as Big S in 2025
+> 
+> | | |
+> | --- | --- |
+> | **Born** | October 23, 2001 |
+> | **Debut** | todo |
+> | **Aliases** | - Big S <br> - David Copperfield (by [Connor](connor-rosciszewski)) <br> - Sam, Sam, the SnapChat Filter Man (by [Septilence](septilence)) <br> - B.M.O.C. <br> - The Looksmaxxer <br> - The Mogger <br> - Fabio (by [Blue Collar Billy](billy-wager) |
+> | **Current Titles** | [Intercontinental (3x)](intercontinental) <br> [Tag Team (2x)](tag-team) <br> [Universal](universal) |
 
 Sam Webster is a [GLCL competitor](tags/competitor) known for his comedic promos and outlandish personas. He made his debut in late 2018 and would go on to become a [GLCL Triple Crown Champion](tags/triple-champion) in 2025. He is best known for his appearances as “Big S”, a bizarre alter ego that oozes charisma, arrogance, and “swag”. His unconventional presentation elevated him to numerous massive title wins in 2025. Sam’s dark horse status led him to surprisingly become the second-ever GLCL competitor to hold all three major titles at the same time, cementing himself in the history books as a main event legend.
 

@@ -11,6 +11,17 @@ tags:
     - founding-member
 ---
 
+> [!info]+ Septilence
+> ![[Images/competitors/septilence/septilence.webp]]
+> > Septilence in July 2025
+> 
+> | | |
+> | --- | --- |
+> | **Born** | June 23, 2000 |
+> | **Debut** | January 28, 2017 |
+> | **Aliases** | - Mat Corfee <br> - The Duke of Wagaria (by [Big British Billy](billy-wager)) <br> - The Voice of the GLCL <br> - The One True Champion (by himself) |
+> | **Past Titles** | [Intercontinental (3x)](intercontinental) <br> [Tag Team (3x)](tag-team) <br> [Universal](universal) |
+
 Mat 'Septilence' Corfee is a competitor in and founding member of the GLCL. He made his debut in the first-ever GLCL competition. A highly-decorated competitor, Septilence has won the [Intercontinental Championship](intercontinental) three times, won the inaugural [Tag Team Championship](tag-team) alongside [Connor Rosciszewski](connor-rosciszewski), and holds the records for longest singular reign with both the Tag Team (alongside [James Elliott](james-elliott)) and [Universal](universal) titles. He is best known as “The Voice of the GLCL” as its main caster/commentator/interviewer, a role he is renowned for outside of the GLCL as well.
 
 # Competitive History

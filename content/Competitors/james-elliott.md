@@ -9,6 +9,17 @@ tags:
     - triple-crown
 ---
 
+> [!info]+ James Elliott
+> ![[Images/competitors/james-elliott/james-elliott.webp]]
+> > Elliott in July 2025
+> 
+> | | |
+> | --- | --- |
+> | **Born** | October 2, 1999 |
+> | **Debut** | January 28, 2017 |
+> | **Aliases** | - God (by themself) <br> - Old Man (by [Anthony Iacovone](anthony-iacovone)) |
+> | **Past Titles** | [Intercontinental (4x)](intercontinental) <br> [Tag Team (2x)](tag-team) <br> [Universal (4x)](universal) | 
+
 James Elliott is a veteran GLCL competitor. They made their debut in the second-ever GLCL match in 2017. They quickly became an established main-event competitor, setting the foundation of the league with high-profile wins, feuds, and storylines against [Ryan Yanchar](ryan-yanchar), [Connor Rosciszewski](connor-rosciszewski), and [Braden Rosciszewski](braden-rosciszewski). After going off to college, James reestablished themselves as a dominant force in the midcard by holding the [Tag Team](tag-team) and [Universal](universal) titles, breaking the record for most days with the former and most reigns with the latter.
 
 # Chronological History
@@ -18,7 +29,13 @@ James made their debut in Game 2 of the [Mario Party 8 Best-of-Six](mario-party-
 
 James’s next appearance was in the first annual [Mario Super Sluggers World Series](mario-super-sluggers-2017) on May 13. In the second round, James faced [Connor Rosciszewski](connor-rosciszewski). In an initially close game, Connor managed to defeat James 30–6. James entered the first annual [2017 Mario Kart Wii Grand Prix](mario-kart-2017) on June 15, but was eliminated from the tournament by [Ryan Yanchar](ryan-yanchar) and [Charlie Nykiel](charlie-nykiel) in the first round.
 
+
 ## Intercontinental Championship reigns (2017–2018)
+
+> [!info]+
+> ![[Images/competitors/james-elliott/elliott-elbow.webp]]
+> > [Connor Rosciszewski](connor-rosciszewski) hitting James with an elbow drop ahead of the [Super Smash Bros. Brawl Classic](super-smash-bros-2017)
+
 [Connor Rosciszewski](connor-rosciszewski) defeated [Dan Ruhe](dan-ruhe) to win the [Intercontinental](intercontinental) Championship on August 19. He immediately issued a challenge to James, [Ryan Yanchar](ryan-yanchar), and [Braden Rosciszewski](braden-rosciszewski) in Call of Duty 4: Modern Warfare. James accepted the challenge, and on September 16, they swept the three competitors to win the [Intercontinental](intercontinental) Championship in dominant fashion. 
 
 After claiming the title, James adopted an arrogant, aggressive persona. A Twitter poll was launched soon after the Modern Warfare four-way match, allowing fans to determine the next number-one contender for the [Intercontinental](intercontinental) title. [Ryan](ryan-yanchar) edged out [Septilence](septilence), [Dan Ruhe](dan-ruhe), and [Charlie Nykiel](charlie-nykiel) to earn a title shot. James and Ryan agreed to battle in EA Sports UFC 2 on September 28, where James secured a decisive victory in five rounds.
@@ -65,6 +82,10 @@ The summer season began with the [2022 Mario Kart Grand Prix](mario-kart-2022). 
 James lost the [Universal](universal) Championship to their own tag team partner, [Septilence](septilence), in a game of Connect 4 on July 9, 2022. This ended their record-shattering 224-day reign. James was slated to face [Sam Webster](sam-webster) in the first round of the [Septilence Presents: The GLCL Carball Contender’s Series](carball-contenders-2022). On September 30, Sam defeated James to eliminate them. They subsequently lost the [Tag Team](tag-team) Championships to [Fintan Bracken](fintan-bracken) & [Sam Webster](sam-webster) of the [Lake County Lollygaggers](lake-county-lollygaggers) on December 18.
 
 James was later recruited into [Big Bad Billy’s](billy-wager) cult, [The Hive](hive). After forming the [Friends in Fear](friends-in-fear) tag team with fellow Hive cultist [Jenna Rosciszewski](jenna-rosciszewski), James reclaimed the [Tag Team](tag-team) Championships in Fall Guys against three other teams on March 11, 2023.
+
+> [!info]+
+> ![[Images/competitors/james-elliott/elliott-staredown.webp]]
+> > James and [Braden Rosciszewski](braden-rosciszewski) engaging in a staredown after the [2023 Mario Kart Grand Prix](mario-kart-2023)
 
 James won the [2023 Mario Kart Grand Prix](mario-kart-2023) on July 7, taking home the trophy and earning the right to face [Intercontinental](intercontinental) Champion [Braden Rosciszewski](braden-rosciszewski) at a later date. Earlier in the night, the [Friends in Fear](friends-in-fear), successfully retained the [Tag Team](tag-team) Championship against [Olivia Guenther](olivia-guenther) and [Shannon Wright](shannon-wright). After Braden defeated Jenna in the main event, James and [The Hive](hive) taunted Braden over the looming threat to come.
 

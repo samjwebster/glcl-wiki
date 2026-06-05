@@ -12,6 +12,17 @@ tags:
     - founding-member
 ---
 
+> [!info]+ Ryan Yanchar
+> ![[Images/competitors/ryan-yanchar/ryan-yanchar.webp]]
+> > Yanchar in August 2019
+> 
+> | | |
+> | --- | --- |
+> | **Born** | June 3, 2000 |
+> | **Debut** | January 14, 2017 |
+> | **Aliases** | - The Vegan |
+> | **Past Titles** | [Intercontinental (2x)](intercontinental) <br> [Tag Team (3x)](tag-team) <br> [Universal (2x)](universal) | 
+
 Ryan Yanchar is a founding member and veteran competitor of the GLCL. He made his debut in the first-ever GLCL competition, which he won to become the inaugural GLCL [Intercontinental](intercontinental) Champion. A highly decorated competitor, Ryan has won the Intercontinental Championship twice, the [Tag Team](tag-team) Championship thrice, and the [Universal](universal) Championship twice, making him the first of only two competitors to ever [hold all three titles simultaneously](tags/triple-champion). He is one of the original main-eventers in the GLCL, establishing his position with high-profile wins, feuds, and storylines against [Connor Rosciszewski](connor-rosciszewski), [Bri Reilly](bri-reilly), and [Septilence](septilence). Following the COVID-19 pandemic, Ryan’s appearances in the GLCL became significantly less frequent. His legacy remains cemented as one of the most popular and decorated competitors of the GLCL’s foundational years.
 
 # Competitive History
