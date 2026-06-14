@@ -9,13 +9,34 @@ tags:
     - triple-crown-champion
 ---
 
+> [!info]+ Charlie Marshall
+> ![[Images/competitors/charlie-marshall/marshall-2022.webp]]
+> > Marshall in 2022
+> 
+> | | |
+> | --- | --- |
+> | **Born** | April 12, 2001 |
+> | **Debut** | December 22, 2018 |
+> | **Aliases** | Boring Charlie (by [Billy](billy-wager))|
+> | **Past Titles** | [Intercontinental](intercontinental) <br> [Tag Team](tag-team) <br> [Universal](universal) |
+
 Charlie Marshall is a GLCL competitor. He made his debut in late 2018. A highly-decorated competitor, Charlie is a [Triple Crown Champion](tags/triple-crown). His unexpected rise in 2022 remains one of the most impressive breakout years in the GLCL. He is best known for his success in the Mario Kart Grand Prix, winning the [2022](mario-kart-2022) and [2024](mario-kart-2024) editions of the tournament. He is also widely considered the GLCL’s greatest of all time in sports games due to his dominance in games such as Madden, PGA Tour, and NBA 2K.
 
 # Competitive History
 
-## Debut and early years (2018-2020)
+## Tag Team Champion (2018-2019)
 
-\[Coming soon\]
+Charlie Marshall debuted at the [2018 Just Dance 3 Invitational](just-dance-2018), where he was eliminated in the quarterfinals by [Intercontinental Champion](intercontinental) [Connor Rosciszewski](connor-rosciszewski).
+
+On January 12, 2019, Charlie turned heel by joining forces with [Dan “The Man” Ruhe](dan-ruhe) to slither his way to his first [Tag Team Championship](tag-team) win at the [WWE 2K19 Spice Cube Invitational](wwe-2019). On February 2, at the [Super Smash Bros. Ultimate Super Bowl](super-smash-bros-2019), Charlie & Dan impressively retained their titles in a Gauntlet Match against [Charlie Nunes](charlie-nunes) & [Sam Webster](sam-webster), [Alexis Cardinale](alexis-cardinale) & [Elise Provident](elise-provident), [Alyssa Desotell](alyssa-desotell) & [Ellie Stevenson](ellie-stevenson), and [Braden Rosciszewski](braden-rosciszewski) & [Connor Rosciszewski](connor-rosciszewski). The dastardly duo again defended their titles against [Anthony Iacovone](anthony-iacovone) & Charlie Nunes at [Brother vs Brother](brother-vs-brother) on February 17. On April 18, Charlie & Dan defeated Sam Webster in a 2-on-1 Tag Team Championship Handicap Match in [Wii Play](wii-play-2019). After heavy criticism from other competitors for the “cheap win”, Charlie agreed to defend the titles 1-on-2 against Braden & Connor in NCAA Football 14. Charlie managed to escape with the win regardless, bringing the duo’s successful defenses to 4. Charlie accepted a 1-on-1 challenge from Braden two days later in Cars: The Video Game. Charlie again defeated Braden to retain the titles, but Braden challenged Charlie one last time in Madden NFL 19, where Braden finally defeated him and ended Marshall & Ruhe’s reign of terror.
+
+Charlie would attempt to regain gold in the third annual editions of the [Super Mario Sluggers World Series](super-mario-sluggers-2019) and [Mario Kart Wii Grand Prix](mario-kart-2019), but was eliminated before the finals.
+
+Charlie later allied with [Spice Cube](devan-welch) to get revenge on [The Twins](twins) ([Braden](braden-rosciszewski) & [Connor Rosciszewski](connor-rosciszewski)). On August 12, the newly minted team challenged for the [Tag Team](tag-team) Championships in Wii Sports, but came up short in an otherwise exciting match. The two teams clashed again in a rematch on October 12 at [Halloween Horror](halloween-horror-2019). This time, Charlie & Spice tied with The Twins in Wii Party, meaning the titles remained with the champions.
+
+At the [Gang Beasts World Cup](gang-beasts-2019) on November 30, Charlie & [Spice Cube](devan-welch) finally got their revenge by easily defeating [The Twins](twins) and eliminating them in the first round to cost them their titles. The joy was short-lived, however, as [Septilence](septilence) & [James Elliott](james-elliott) defeated them in the following round. 
+
+On December 21, Charlie and [Spice Cube](devan-welch) lost a [Tag Team](tag-team) Championship #1 contendership match to [Braden](braden-rosciszewski) & [Connor Rosciszewski](connor-rosciszewski) in Halo 3.
 
 ## Hiatus (2020–2021)
 On December 21, Charlie and [Spice Cube](devan-welch) lost a [Tag Team](tag-team) Championship contendership match to the [Twins](twins), [Braden](braden-rosciszewski) & [Connor Rosciszewski](connor-rosciszewski) in Halo 3.

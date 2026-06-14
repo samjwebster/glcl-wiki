@@ -10,11 +10,23 @@ tags:
 
 ---
 
+> [!info]+ Anthony Iacovone
+> ![[Images/competitors/anthony-iacovone/anthony-2025.webp]]
+> > Iacovone in 2025
+> 
+> | | |
+> | --- | --- |
+> | **Born** | November 20, 2000 |
+> | **Debut** | May 10, 2017 |
+> | **Aliases** | Anger Management Anthony (by [Fintan](fintan-bracken)) <br> The Outlaw <br> Big Dog (by [Big S](sam-webster)) <br> Ant Man (by [Big S](sam-webster)) <br> Air Bud (by [Big S](sam-webster)) |
+> | **Current Titles** | [Tag Team](tag-team) (with [The Family Business](family-business)) |
+> | **Past Titles** | [Intercontinental](intercontinental) <br> [Universal](universal) |
+
 # Anthony Iacovone
 
 Anthony Iacovone is a GLCL competitor. He made his debut in the [2017 Mario Super Sluggers World Series](mario-super-sluggers-2017). A frequent main eventer, Anthony has competed for and defended the [Intercontinental](intercontinental) Championship across four individual reigns. He is best known for his boastful and highly aggressive persona, most notably in his blood feuds against [Fintan Bracken](fintan-bracken), [Connor Rosciszewski](connor-rosciszewski), and [James Elliott](james-elliott). This aggression mirrors his success in the fighting game division, where he has dominated in games like Street Fighter, Mortal Kombat, and Gang Beasts.
 
-# Chronological History
+# Competitive History
 
 ## Intercontinental Championship feuds (2017–2018)
 Anthony debuted in the GLCL on May 10, 2017, replacing [Jenna Ward](jenna-ward) in the [Mario Super Sluggers World Series](mario-super-sluggers-2017). Despite losing, he made an instant splash in an electric match against [Braden Rosciszewski](braden-rosciszewski). He went on an extended hiatus due to a busy schedule, but he vowed to return in search of championship glory.

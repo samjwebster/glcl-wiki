@@ -8,5 +8,4 @@ The Great Lakes Championship League is a competition league revolving around fou
 | - | - | - | - |
 | ![[Images/titles/intercontinental.webp]] | ![[Images/titles/tag-team.webp]] | ![[Images/titles/universal.webp]] | ![[Images/titles/ufc.webp]] |
 | Contested in singles-based competitions | Contested in team-based competitions | Contested in board games | Contested in virtually anything |
-| Current Champion: <br> [Big S](sam-webster) | Current Champions: <br> [Big S](sam-webster) & [Anthony Iacovone](anthony-iacovone) | Current Champion: <br> [Big S](sam-webster) | Current Champion: <br> I can't remember. |
-
+| Current Champion: <br> [Big S](sam-webster) | Current Champions: <br> [The Family Business](family-business) ([Braden](braden-rosciszewski), [Connor](connor-rosciszewski), and [Jenna Rosciszewski](jenna-rosciszewski)) | Current Champion: <br> [Spice Cube](devan-welch) | Current Champion: <br> I can't remember. |

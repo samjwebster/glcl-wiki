@@ -22,7 +22,7 @@ tags:
 
 James Elliott is a veteran GLCL competitor. They made their debut in the second-ever GLCL match in 2017. They quickly became an established main-event competitor, setting the foundation of the league with high-profile wins, feuds, and storylines against [Ryan Yanchar](ryan-yanchar), [Connor Rosciszewski](connor-rosciszewski), and [Braden Rosciszewski](braden-rosciszewski). After going off to college, James reestablished themselves as a dominant force in the midcard by holding the [Tag Team](tag-team) and [Universal](universal) titles, breaking the record for most days with the former and most reigns with the latter.
 
-# Chronological History
+# Competitive History
 
 ## Initial struggles (2017)
 James made their debut in Game 2 of the [Mario Party 8 Best-of-Six](mario-party-2017) series on January 28, 2017. Teaming with [Kourtney Syrus](kourtney-syrus), James came in fourth place. They continued to make appearances in the series, but did not make a significant impact until Game 5. On March 4, they helped cost [Braden Rosciszewski](braden-rosciszewski) the match, allowing [Ryan Yanchar](ryan-yanchar) to become the inaugural [Intercontinental](intercontinental) Champion.

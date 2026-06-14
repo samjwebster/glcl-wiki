@@ -11,9 +11,21 @@ tags:
     - founding-member
 ---
 
+> [!info]+ Braden Rosciszewski
+> ![[Images/competitors/braden-rosciszewski/braden-2023.webp]]
+> > Rosciszewski in December 2023
+> 
+> | | |
+> | --- | --- |
+> | **Born** | March 27, 2001 |
+> | **Debut** | January 14, 2017 |
+> | **Aliases** |The Best That There Ever Was (by himself) <br> Beast (by himself) <br> The Left-Hand Man (as part of [The Family Business](family-business)) <br> Anger Management Braden (by [Big Bashful Billy](billy-wager)) <br> B-Dawg (by [Big S](sam-webster)) |
+> | **Current Titles** | [Tag Team](tag-team) (with [The Family Business](family-business)) |
+> | **Past Titles** | [Intercontinental](intercontinental) <br> [Universal](universal) |
+
 Braden Rosciszewski is a founding member of the GLCL. He made his debut in the first-ever GLCL competition. A highly-decorated competitor, Braden holds the record for the longest consecutive [Intercontinental](intercontinental) Championship reign in addition to five [Tag Team](tag-team) and three [Universal](universal) titles, making him a [Triple Crown Champion](tags/triple-crown). His feuds against rivals such as [Connor Rosciszewski](connor-rosciszewski), [Big Bad Billy](billy-wager), and [James Elliott](james-elliott) have cemented his status as a main-event star. 
 
-# Chronological History
+# Competitive History
 
 ## Debut and early pursuits (2017)
 

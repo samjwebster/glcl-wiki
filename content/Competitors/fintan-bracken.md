@@ -10,6 +10,17 @@ tags:
     - triple-crown
 ---
 
+> [!info]+ Fintan Bracken
+> ![[Images/competitors/fintan-bracken/fintan-bracken.webp]]
+> > Bracken in the [2021 Gang Beasts World Cup](gang-beasts-2021) Trailer
+> 
+> | | |
+> | --- | --- |
+> | **Born** | May 18, 2001 |
+> | **Debut** | December 30, 2017 |
+> | **Aliases** | The Revolutionary <br> The People’s Champion <br> Leprechaun <br> Wannabe Robespierre |
+> | **Past Titles** | [Intercontinental](intercontinental) <br> [Tag Team](tag-team) <br> [Universal](universal) |
+
 Fintan Bracken is a veteran competitor and decorated champion in the GLCL. Making his debut at the tail end of 2017, he quickly transformed from a struggling rookie into a dominant main-event force. Fintan is best known for his record-setting achievements, including becoming the league's third-ever [Triple Crown Champion](tags/triple-crown) and establishing the fastest timeline to complete the feat. Across his career, he held the [Intercontinental](intercontinental), [Universal](universal), and [Tag Team](tag-team) titles, representing winning alliances like [The Hoodies](hoodies) and the [Lake County Lollygaggers](lake-county-lollygaggers).
 
 # Competitive History

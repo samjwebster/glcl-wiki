@@ -12,6 +12,18 @@ tags:
     - sugar-brother
 ---
 
+> [!info]+ Connor Rosciszewski
+> ![[Images/competitors/connor-rosciszewski/connor-2023.webp]]
+> > Rosciszewski in 2023
+> 
+> | | |
+> | --- | --- |
+> | **Born** | March 27, 2001 |
+> | **Debut** | January 14, 2017 |
+> | **Aliases** | The Champ/The Champion <br> Pipsqueak Connor <br> Beyoncé (by [Anthony](anthony-iacovone)), The Right-Hand Man (as part of [The Family Business](family-business)) <br> Emo Michael Jackson <br> Cobra Commander <br> Con Man (by [Big S](sam-webster)) |
+> | **Current Titles** | [Tag Team](tag-team) (with [The Family Business](family-business)) |
+> | **Past Titles** | [Intercontinental](intercontinental) <br> [Universal](universal) |
+
 Connor Rosciszewski is a founding member of the GLCL. He made his debut in the first-ever GLCL competition. A highly-decorated competitor, Connor has won the [Intercontinental](intercontinental) Championship a record seven times in addition to five [Tag Team](tag-team) and two [Universal](universal) titles. He is best known for his calculating and egomaniacal personas, both in singles competition as well as a part of [The Family Business](family-business), which have propelled him to main-event appearances for much of his career.
 
 # Competitive History
@@ -107,6 +119,10 @@ On November 30, a 4-on-4 elimination match was scheduled to end the feud between
 Dissatisfied with this non-conclusion and itching for a fight, Connor personally called out [Anthony](anthony-iacovone) in February 2025. After trading barbs in an interview, Anthony broke into Connor’s home and shoved him into a washing machine on February 24. Connor laid out the official challenge for an [Intercontinental](intercontinental) Championship match in Worms W.M.D. On February 28, Connor defeated Anthony to retain the title. After the match, Anthony ambushed Connor and ran off with the title belt.
 
 Connor emerged in March “asking nicely” for the title back. [Anthony](anthony-iacovone) taunted Connor and refused to return the [Intercontinental](intercontinental) belt. After receiving a cryptic warning from Connor, Anthony found his fiancee, [Jade Rush](jade-rush), being held at knifepoint by a psychotic Connor. After a tense confrontation, Anthony managed to talk down Connor and hand over the belt. Furious, Anthony challenged Connor again, this time in Street Fighter V. On March 15, Connor lost the Intercontinental Championship to Anthony. After the match, Anthony brutalized Connor with a steel chair and left him bloodied on the floor.
+
+> [!info]+
+> ![[Images/competitors/connor-rosciszewski/connor-2025.webp]]
+> > Connor making his entrance in March 2025.
 
 At the [2025 Mario Kart Grand Prix](mario-kart-2025) on June 14, Connor confronted his siblings, questioning their absence during [Anthony’s](anthony-iacovone) brutal beatdown. [Braden](braden-rosciszewski) pointed out that Connor didn’t ask for help, which only angered Connor. [Jenna](jenna-rosciszewski) cooled things down and rallied the trio, assuring her brothers that the [Family Business](family-business) would surely regain the [Intercontinental](intercontinental) Championship if all three made it to the main event. However, none of the three qualified to the finals. After the main event, [Big British Billy](big-british-billy) took to the podium to celebrate the win of his accomplice, [Septilence](septilence). Suddenly, gunshots rang out in the air and Septilence tackled Billy to the floor. Septilence then escorted Billy to safety after a bloodied Billy raised his fist in the air, chanting “Fight! Fight! Fight!” in defiance to the apparent assassination attempt.
 

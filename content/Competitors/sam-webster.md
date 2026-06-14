@@ -20,9 +20,10 @@ tags:
 > | | |
 > | --- | --- |
 > | **Born** | October 23, 2001 |
-> | **Debut** | todo |
-> | **Aliases** | - Big S <br> - David Copperfield (by [Connor](connor-rosciszewski)) <br> - Sam, Sam, the SnapChat Filter Man (by [Septilence](septilence)) <br> - B.M.O.C. <br> - The Looksmaxxer <br> - The Mogger <br> - Fabio (by [Blue Collar Billy](billy-wager) |
-> | **Current Titles** | [Intercontinental (3x)](intercontinental) <br> [Tag Team (2x)](tag-team) <br> [Universal](universal) |
+> | **Debut** | November 24, 2018 |
+> | **Aliases** | Big S <br> David Copperfield (by [Connor](connor-rosciszewski)) <br> Sam, Sam, the SnapChat Filter Man (by [Septilence](septilence)) <br> B.M.O.C. <br> The Looksmaxxer <br> The Mogger <br> Fabio (by [Blue Collar Billy](billy-wager)) |
+> | **Current Titles** | [Intercontinental (3x)](intercontinental) |
+> | **Past Titles** | [Tag Team (3x)](tag-team) <br> [Universal](universal) |
 
 Sam Webster is a [GLCL competitor](tags/competitor) known for his comedic promos and outlandish personas. He made his debut in late 2018 and would go on to become a [GLCL Triple Crown Champion](tags/triple-champion) in 2025. He is best known for his appearances as “Big S”, a bizarre alter ego that oozes charisma, arrogance, and “swag”. His unconventional presentation elevated him to numerous massive title wins in 2025. Sam’s dark horse status led him to surprisingly become the second-ever GLCL competitor to hold all three major titles at the same time, cementing himself in the history books as a main event legend.
 
@@ -58,6 +59,10 @@ On July 11, Sam defeated [Professor Cube](devan-welch) to retain the [Universal 
 On September 12, Big S ran into [The Twins](twins). Despite an attempt at casual conversation, [Braden](braden-rosciszewski) and [Connor Rosciszewski](rosciszewski) reacted with hostility and vowed to go after Big S’s Universal and Intercontinental titles. On October 20, Big S bumped into [Anthony Iacovone](anthony-iacovone) and convinced The Outlaw to be his tag team partner, successfully appealing to Anthony’s animosity towards the GLCL [Tag Team](tag-team) Champions [Jade Rush](jade-rush) & [Emily O’Neil](emily-oneil).
 
 At [Halloween Horror](halloween-horror-2025) on October 22, Big S defeated [Charlie Nunes](charlie-nunes) in Portal 2 to retain the GLCL Intercontinental Championship. 
+
+> [!info]+
+> ![[Images/competitors/sam-webster/sam-triple-champ.webp]]
+> > Sam becoming the second man in GLCL history to hold the [Intercontinental](intercontinental), [Tag Team](tag-team), and [Universal](universal) titles at the same time in December 2025.
 
 On December 27 at [Boomerang Fu: TURF WARS](boomerang-fu-2025), [Anthony](anthony-iacovone) suggested culpability in [Emily](emily-oneil) failing to appear due to slashed tires. A debuting [Belle Ayala](belle-ayala) volunteered to stand in, but Anthony & Big S defeated her and [Jade](jade-rush) to win the [Tag Team titles](tag-team). In doing so, Big S completed his mission of capturing every GLCL title before the year’s end, becoming a [Triple Champion](tags/triple-champion) and vowing to transform the league to fit his vision of “swagginess”. [Ryan Yanchar](ryan-yanchar), the first man to hold all three GLCL titles at once, personally shook Big S’s hand after the match in a display of respect.
 

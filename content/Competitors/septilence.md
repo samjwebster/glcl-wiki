@@ -60,7 +60,7 @@ On November 30, Mat competed at the [Gang Beasts World Cup](gang-beasts-2019). H
 
 ## Hiatus (2020-2021)
 
-The [Intercontinental](intercontinental), [Tag Team](tag-team), and [Universal](universal) Championships were put on hiatus after the [2019 Just Dance 4 Invitational](just-dance-2019). [Elliott](james-elliott) was scheduled to defend the title at the [Guitar Hero World Tour](guitar-hero-2020) tournament on May 23, but the COVID-19 pandemic led to the cancellation of the event and an indefinite extension of the hiatus. With no foreseeable end to the pandemic, the [Universal Championship](universal) was vacated on May 23.
+The [Intercontinental](intercontinental), [Tag Team](tag-team), and [Universal](universal) Championships were put on hiatus after the [2019 Just Dance 4 Invitational](just-dance-2019), with the [Guitar Hero World Tour](guitar-hero-2020) scheduled for May 23, 2020. However, due to the COVID-19 pandemic, the event was cancelled and the hiatus was extended until further notice.
 
 ## Record-breaking Tag Team reigns (2021-2023)
 
